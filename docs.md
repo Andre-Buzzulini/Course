@@ -1,3 +1,3 @@
 This documentation describes how to use the application Buzzu Maps.
 
-Note that this app is going to replace Google Maps from today.
+Note that this app is much better than Google Maps.
