@@ -1,3 +1,3 @@
-This documentation describes how to use the application Buzzu Maps.
+This documentation describes how to use the application Buzzu Map.
 
 Note that this app will replace Google Maps in the whole world and even in Mars.
