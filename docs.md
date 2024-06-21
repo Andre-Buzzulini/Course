@@ -3,5 +3,3 @@ This documentation describes how to use the application Buzzu Maps in the whole 
 Note that this app will replace Google Maps in the whole world and even in Mars, Venus and Uranus.
 
 Inserting information about Uranus requires [need info here].
-
-This is just a test for the Planets branch.
